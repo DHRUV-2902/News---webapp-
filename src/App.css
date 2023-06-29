@@ -1,0 +1,21 @@
+img{
+  height:100px;
+  width:100px;
+}
+body{
+  margin:100px;
+  background-color:black;
+  
+}
+.font{
+  font: 100;
+}
+*{
+
+  font-size:20px;
+  
+}
+table{
+  color:aliceblue;
+}
+
